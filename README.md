@@ -1,7 +1,7 @@
 # ComputerVision
 ## Projection & Transformation
-1) using homography matrix to project an image to the forward view and on a video wall
-2) using essential matrix for views transformation.
+1) Using homography matrix to project an image to the forward view and on a video wall
+2) Using essential matrix for views transformation.
 
 ## KeyPoint Extraction & Matching
 1) Harris corner detector implementation 
